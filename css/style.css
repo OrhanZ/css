@@ -1,0 +1,15 @@
+#first{
+    color: rgba(172, 9, 9, 0.216)
+}
+#second{
+    color: rgba(28, 171, 171, 0.268);
+}
+#three{
+    color: rgba(205, 116, 0, 0.756);
+}
+#four{
+    color: rgba(0, 74, 74, 0.633);
+}
+body{
+    background-color: black;
+}
